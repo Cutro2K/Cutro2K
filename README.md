@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="  devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>
       <b>C++</b>
     </td>
     <td align="center">
