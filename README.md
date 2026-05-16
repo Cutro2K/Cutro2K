@@ -5,7 +5,6 @@
 ### About Me
 
 - 🎓 A Systems Engineering student at UTN from Santa Fé - Argentina.
-- 💻 I'm currently learning the Spring framework to focus on backend development with Java
 - 📚 I enjoy programming, solving problems, and developing applications.
 
 ---
