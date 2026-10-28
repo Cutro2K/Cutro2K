@@ -6,7 +6,7 @@
 
 - 🎓 A Systems Engineering student at UTN from Santa Fé - Argentina.
 - 📚 I enjoy programming, solving problems, and developing applications.
-
+- 🏆 I like problem solving and participating on competitive programming competitions. 
 ---
 
 ### 🧠 Skills & Technologies
@@ -14,34 +14,36 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>
       <b>C++</b>
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40"/><br>
+      <b>Rust</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br>
       <b>Java</b>
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40"/><br>
-      <b>Typescript</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br>
+      <b>TypeScript</b>
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br>
       <b>React</b>
     </td>
-        <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/><br>
-      <b>Html</b>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/><br>
+      <b>Next.js</b>
     </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/><br>
+      <b>Tailwind CSS</b>
     </td>
-        <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/><br>
-      <b>Tailwindcss</b>
-    </td>
-    </td>
-        <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40"/><br>
-      <b>MySql</b>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br>
+      <b>MySQL</b>
     </td>
   </tr>
 </table>
@@ -55,8 +57,8 @@
       <b>VS Code</b>
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="40"/><br>
-      <b>IntelliJ Idea</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/><br>
+      <b>IntelliJ IDEA</b>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>
