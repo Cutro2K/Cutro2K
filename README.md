@@ -1,11 +1,9 @@
 # Hi, I'm Tomás
 
-### Systems Engineering Student
-
 ### About Me
 
 - 🎓 A Systems Engineering student at UTN from Santa Fé - Argentina.
-- 📚 I enjoy programming, solving problems, and developing applications.
+- 📚 I enjoy programming and developing applications.
 - 🏆 I like problem solving and participating on competitive programming competitions. 
 ---
 
